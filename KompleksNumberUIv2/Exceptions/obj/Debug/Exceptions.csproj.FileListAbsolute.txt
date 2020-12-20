@@ -1,0 +1,11 @@
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\Exceptions\obj\Debug\Exceptions.pdb
+E:\ООП\KompleksNumberUIv2\Exceptions\bin\Debug\Exceptions.dll
+E:\ООП\KompleksNumberUIv2\Exceptions\bin\Debug\Exceptions.pdb
+E:\ООП\KompleksNumberUIv2\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+E:\ООП\KompleksNumberUIv2\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+E:\ООП\KompleksNumberUIv2\Exceptions\obj\Debug\Exceptions.dll
+E:\ООП\KompleksNumberUIv2\Exceptions\obj\Debug\Exceptions.pdb

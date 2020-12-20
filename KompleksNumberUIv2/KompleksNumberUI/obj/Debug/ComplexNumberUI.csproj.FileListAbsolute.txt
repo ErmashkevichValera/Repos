@@ -1,0 +1,64 @@
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe.config
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.Properties.Resources.resources
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.GenerateResource.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CoreCompileInputs.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.exe
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\ComplexNumber.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\ComplexNumber.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csprojAssemblyReference.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\CompleksNumberUI.Form1.resources
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\CompleksNumberUI.FormAdd.resources
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CopyComplete
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\Exceptions.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\Exceptions.pdb
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csprojAssemblyReference.cache
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\CompleksNumberUI.Form1.resources
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\CompleksNumberUI.FormAdd.resources
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.Properties.Resources.resources
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.GenerateResource.cache
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CoreCompileInputs.cache
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.exe
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.pdb
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe.config
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.pdb
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\bin\Debug\ComplexNumber.dll
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\bin\Debug\Exceptions.dll
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\bin\Debug\ComplexNumber.pdb
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\bin\Debug\Exceptions.pdb
+C:\Users\Валерий Ермашкевич\Desktop\KompleksNumberUI\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CopyComplete
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe.config
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\KompleksNumberUI.pdb
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\ComplexNumber.dll
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\Exceptions.dll
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\ComplexNumber.pdb
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\Exceptions.pdb
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csprojAssemblyReference.cache
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\CompleksNumberUI.Form1.resources
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\CompleksNumberUI.FormAdd.resources
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\KompleksNumberUI.Properties.Resources.resources
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.GenerateResource.cache
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CoreCompileInputs.cache
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CopyComplete
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\KompleksNumberUI.exe
+E:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\KompleksNumberUI.pdb
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe.config
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\KompleksNumberUI.pdb
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\ComplexNumber.dll
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\Exceptions.dll
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\ComplexNumber.pdb
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\bin\Debug\Exceptions.pdb
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csprojAssemblyReference.cache
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\CompleksNumberUI.Form1.resources
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\CompleksNumberUI.FormAdd.resources
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\KompleksNumberUI.Properties.Resources.resources
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.GenerateResource.cache
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CoreCompileInputs.cache
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\ComplexNumberUI.csproj.CopyComplete
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\KompleksNumberUI.exe
+G:\ООП\KompleksNumberUIv2\KompleksNumberUI\obj\Debug\KompleksNumberUI.pdb

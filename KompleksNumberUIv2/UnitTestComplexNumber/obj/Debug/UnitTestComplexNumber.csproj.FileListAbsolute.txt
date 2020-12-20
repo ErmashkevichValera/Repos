@@ -1,0 +1,43 @@
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\UnitTestComplexNumber.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\UnitTestComplexNumber.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\ComplexNumber.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\ComplexNumber.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.csprojAssemblyReference.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.csproj.CopyComplete
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.pdb
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\UnitTestComplexNumber.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\UnitTestComplexNumber.pdb
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\ComplexNumber.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Exceptions.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\KompleksNumberUI.exe
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\ComplexNumber.pdb
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Exceptions.pdb
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\KompleksNumberUI.pdb
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\KompleksNumberUI.exe.config
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.csprojAssemblyReference.cache
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.csproj.CoreCompileInputs.cache
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.csproj.CopyComplete
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.dll
+G:\ООП\KompleksNumberUIv2\UnitTestComplexNumber\obj\Debug\UnitTestComplexNumber.pdb

@@ -1,0 +1,10 @@
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe.config
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.exe
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\bin\Debug\KompleksNumberUI.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.csprojAssemblyReference.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.Form1.resources
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.Properties.Resources.resources
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.csproj.GenerateResource.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.csproj.CoreCompileInputs.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.exe
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\KompleksNumberUI\obj\Debug\KompleksNumberUI.pdb

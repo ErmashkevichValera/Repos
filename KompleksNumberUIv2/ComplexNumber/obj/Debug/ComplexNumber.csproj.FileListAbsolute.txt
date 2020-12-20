@@ -1,0 +1,6 @@
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\ComplexNumber\bin\Debug\ComplexNumber.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\ComplexNumber\bin\Debug\ComplexNumber.pdb
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\ComplexNumber\obj\Debug\ComplexNumber.csprojAssemblyReference.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\ComplexNumber\obj\Debug\ComplexNumber.csproj.CoreCompileInputs.cache
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\ComplexNumber\obj\Debug\ComplexNumber.dll
+C:\Users\Валерий Ермашкевич\source\repos\KompleksNumberUI\ComplexNumber\obj\Debug\ComplexNumber.pdb
